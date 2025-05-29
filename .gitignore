@@ -1,0 +1,22 @@
+# Ignore ZIPs and large files
+*.zip
+*.rar
+*.7z
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore any __pycache__ or compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional: Ignore analysis outputs if regenerated
+analysis_outputs/
+plots/
