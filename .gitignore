@@ -20,3 +20,5 @@ __pycache__/
 # Optional: Ignore analysis outputs if regenerated
 analysis_outputs/
 plots/
+venv/
+
